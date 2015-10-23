@@ -1,0 +1,108 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1445087482000,
+        "modified": 1445087482000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "awsiot-handson-device-1.xdk": {
+        "previousModTime": 1445087482000,
+        "modified": 1445087482000,
+        "seen": true,
+        "name": "awsiot-handson-device-1.xdk"
+      },
+      "awsiot-handson-device-1.xdke": {
+        "previousModTime": 1445087482000,
+        "modified": 1445087482000,
+        "seen": true,
+        "name": "awsiot-handson-device-1.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1445087482000,
+        "modified": 1445087482000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1445091862000,
+        "modified": 1445091862000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1445090484000,
+        "modified": 1445090484000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "certs/cert.pem": {
+        "previousModTime": 1444922165000,
+        "modified": 1444922165000,
+        "seen": true,
+        "name": "certs/cert.pem"
+      },
+      "certs/privatekey.pem": {
+        "previousModTime": 1444922165000,
+        "modified": 1444922165000,
+        "seen": true,
+        "name": "certs/privatekey.pem"
+      },
+      "certs/publickey.pem": {
+        "previousModTime": 1444922165000,
+        "modified": 1444922165000,
+        "seen": true,
+        "name": "certs/publickey.pem"
+      },
+      "certs/rootca.crt": {
+        "previousModTime": 1444922165000,
+        "modified": 1444922165000,
+        "seen": true,
+        "name": "certs/rootca.crt"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1445087482000,
+        "modified": 1445087482000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "README.md": {
+        "previousModTime": 1445603899365
+      },
+      "icon.png": {
+        "previousModTime": 1445603899365
+      },
+      "main.js": {
+        "previousModTime": 1445603899365
+      },
+      "package.json": {
+        "previousModTime": 1445603899365
+      },
+      "certs/cert.pem": {
+        "previousModTime": 1445603899365
+      },
+      "certs/privatekey.pem": {
+        "previousModTime": 1445603899365
+      },
+      "certs/publickey.pem": {
+        "previousModTime": 1445603899365
+      },
+      "certs/rootca.crt": {
+        "previousModTime": 1445603899365
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1445603899365
+      }
+    }
+  }
+}
